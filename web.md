@@ -2,4 +2,4 @@
 layout: post
 title: Just amfoss requirement
 ---
-Once there was a little kid who wanted to get into amfoss.He had a task to built a website and ta da here it is
+Tasks done as of now include starring the amfoss repositories, codeforces and hackerrank problems( a few of them have time complexity problems ), building a simple website using Jekyll(which is this), task 13 problem(here too time complexity problem occur in one of them),captcha breking(code not running in my PC(windows)), two levels of bandit.
